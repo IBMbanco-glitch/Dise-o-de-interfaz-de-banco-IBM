@@ -12,4 +12,5 @@ Este proyecto es una interfaz sobre un banco donde se puede registrar usuarios
 
 ## Ejecución
 1. Descargar o clonar el repositorio.
-2. Abrir `index.html` en el navegador.
+2. Abrir `interfaz.html` en el navegador.
+
